@@ -22,3 +22,4 @@ This repo is a curated list of places I consider for weekends with my kid.
 ## Sites
 
 - [Athinorama](http://www.athinorama.gr/child/)
+- [The Mamagers](http://www.themamagers.gr/)
