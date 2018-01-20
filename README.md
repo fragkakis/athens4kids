@@ -6,6 +6,7 @@ This repo is a curated list of places I consider for weekends with my kid.
 
 - Onassis Cultural Centre (Στέγη Γραμμάτων και Τεχνών) - [Site](http://www.sgt.gr/)
 - Stavros Niarchos Foundation Cultural Centre (Κέντρο Πολιτισμού Σταύρος Νιάρχος) - [Events](https://www.snfcc.org/visitors-center/events/?lang=el)
+- National Opera (Εθνική Λυρική Σκηνή) - [Shows](www.nationalopera.gr)
 - Eugenides Foundation Planetarium (Πλανητάριο Ιδρύματος Ευγενίδη) - [Shows](http://www.eugenfound.edu.gr/frontoffice/portal.asp?cpage=NODE&cnode=306)
 - National Observatory of Athens - [Site](http://www.noa.gr/), [Visitor centers FB page](https://www.facebook.com/visitorcenters)
 - Megaron (Μέγαρο Μουσικής) - [Events](http://www.megaron.gr/default.asp?pid=15&la=1)
