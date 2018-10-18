@@ -22,9 +22,10 @@ This repo is a curated list of places I consider for weekends with my kid.
 - Goulandris Museum (Μουσείο Γουλανδρή) - [Events](http://www.gnhm.gr/events-page/)
 - Acropolis Museum (Μουσείο Ακρόπολης) - [Events](http://www.theacropolismuseum.gr/el/content/oikogeneiaka-programmata)
 
-## Playgrounds
+## Educational Playgrounds
 
 - [Planet Physics](https://www.planetphysics.gr/)
+- [Μικροί επιστήμονες](https://www.mikriepistimones.gr/)
 
 ## Sites
 
