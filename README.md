@@ -26,6 +26,7 @@ This repo is a curated list of places I consider for weekends with my kid.
 
 - [Planet Physics](https://www.planetphysics.gr/)
 - [Μικροί επιστήμονες](https://www.mikriepistimones.gr/)
+- [Γαϊδουροχώρα](http://gaidourohora.gr/)
 
 ## Sites
 
